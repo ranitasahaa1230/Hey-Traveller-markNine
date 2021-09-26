@@ -70,6 +70,14 @@ li {
   background-color: #fee2e2;
 }
 
+.location{
+  font-size: large;
+  color: #059669;
+}
+.rating{
+  font-size: large;
+  color: #059669;
+}
 footer {
   text-align: center;
   background-color: #6b7280;
